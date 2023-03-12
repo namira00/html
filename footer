@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <style>
+        .footer {
+            background-color: #f2f2f2;
+            padding: 20px;
+            text-align: center;
+            font-size: 14px;
+            border-top: 1px solid #ccc;
+        }
+
+        .fa {
+            padding: 20px;
+            font-size: 30px;
+            width: 30px;
+            text-align: center;
+            text-decoration: none;
+            margin: 5px 2px;
+            border-radius: 50%;
+            align-items: center;
+        }
+
+        .fa-linkedin {
+            background: #007bb5;
+            color: white;
+            align-items: center;
+        }
+
+
+        .fa-instagram {
+            background: #125688;
+            color: white;
+            align-items: center;
+        }
+
+        .fa-rss {
+            background: #ff6600;
+            color: white;
+            align-items: center;
+        }
+        .text1{
+            font-size: 25px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="footer">
+        <p class="text1" >Copyright @ 2023</p>
+        <!-- Add font awesome icons -->
+        <a href="https://www.linkedin.com/company/computer-society-of-india-mitwpu-chapter/mycompany/" class="fa fa-linkedin"></a>
+        <a href="https://instagram.com/csimitwpu?igshid=YmMyMTA2M2Y=" class="fa fa-instagram"></a>
+    </div>
+    
+
+
+
+</body>
+
+</html>
